@@ -61,7 +61,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 * Hat tip to the Twilio API for making communication data readily accessible.
 * Thanks to all contributors who have helped to improve this tool.
 ```
-
-Remember to replace `https://github.com/yourgithubusername/twilio-usage-pricing-fetcher.git` with the actual URL of your GitHub repository. Also, if you use a license different from MIT, make sure to update the License section accordingly, including the `LICENSE.md` file in your repository if it's not already included.
-
-This README provides a basic structure including sections like 'Getting Started', 'Prerequisites', 'Installing', 'Usage', 'Contributing', and 'License'. Tailoring it to the specifics of your project will help others understand how to properly setup, use, and contribute to your project.
